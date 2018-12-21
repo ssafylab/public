@@ -3,7 +3,8 @@ permalink: /Markdown-Table/
 title: "Markdown"
 ---
 
-* Text
+## Text
+
 |Syntax|Description|Example|
 |------|-----------|-------|
 |<h1> ~ <h6>|header|<h1 Hello, SSAFY!|
