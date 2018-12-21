@@ -49,7 +49,7 @@ title: 자기 주도 학습
 
 * 문서 제목들이 클릭해서 내용을 살펴 봅시다.
 
-![Read Post](../images/05-06-Read-Post){: width="600px"}
+![Read Post](../images/05-06-Read-Post.png){: width="600px"}
 
 
 *이제, 테마와 마크다운을 활용해 블로그의 디자인, 포스팅을 만들어 나갈 수 있습니다.*
