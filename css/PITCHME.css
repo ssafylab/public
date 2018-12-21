@@ -21,6 +21,11 @@
 
 /* Title Style */
 
+.title-main {
+  margin: 0 0 10px 0;
+  font-size: 1.2em;
+}
+
 .title-top {
   margin: 0 0 10px 0;
   font-size: 1.0em;
