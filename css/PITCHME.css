@@ -60,7 +60,7 @@
 
 .list-content-verbose li {
   font-size: 0.6em;
-  margin:0 0 40px 0;
+  margin:0 0 10px 0;
 }
 
 .list-bullets-black li::before {
