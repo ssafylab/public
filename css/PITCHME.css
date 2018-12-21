@@ -21,6 +21,10 @@
 
 /* List-Content Template Styles */
 
+.list-converged li {
+  font-size: 0.6em;
+}
+
 .list-content-concise li {
   margin:0 0 10px 0;
   font-size: 0.6em;
