@@ -34,7 +34,7 @@ background-size : 100% 60%
 # Layout Setting
 # Doc: https://gitpitch.com/docs/settings/layout
 #
-layout : top-left
+layout : center
 
 #
 # Twitter Card Settings
