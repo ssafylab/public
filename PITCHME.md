@@ -15,7 +15,7 @@
 @snapend
 
 @snap[south-west list-content-concise span-100]
-@ol[list-content-verbose]
+@ol[list-content-verbose](false)
 - 마크다운 형식의 문서를 이해한다.
 - Git Pitch를 활용하여 마크다운 문서를 프레젠테이션으로 활용한다.
 - GitHub 블로그를 생성하고 포스팅하는 방법을 익힌다.
