@@ -1,4 +1,7 @@
 ---?image=images/ssafy_main.png
+
+
+
 ## Git과 markdown을 잘 활용해보자!
 #### Let's take an advantage of Git and Markdown
 
