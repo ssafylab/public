@@ -134,7 +134,11 @@ Git의 장점
 @title[Title + Concise List]
 
 @snap[north title-top text-blue]
-@size[0.8em]그럼, 아래 항목들을 순서대로 진행하며 오늘의 미션을 완수해 볼까요?
+Self-Learning
+@snapend
+
+@snap[title-sub]
+그럼, 아래 항목들을 순서대로 진행하며 오늘의 미션을 완수해 볼까요?
 @snapend
 
 @snap[list-content-concise]
