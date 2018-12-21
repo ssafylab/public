@@ -133,7 +133,7 @@ Git의 장점
 ---?image=images/ssafy_bg.png
 @title[Title + Concise List]
 
-@snap[north title-top]
+@snap[title-sub text-blue]
 그럼, 아래 항목들을 순서대로 진행하며 오늘의 미션을 완수해 볼까요?
 @snapend
 
