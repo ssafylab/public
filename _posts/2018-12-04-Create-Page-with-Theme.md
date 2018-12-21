@@ -6,7 +6,7 @@ GitHub는 Page 기능을 제공하는데, Jekyll과 같은 테마를 적용해 �
 덕분에 GitHub가 코드 관리뿐만 아니라 기술 블로그나 포트폴리오로 사용되는 경우도 적잖게 볼 수 있습니다.
 
 * 아래 주소에 접속하여 마음에 드는 테마를 선택합니다.
-  - https://github.com/topics/jekyll-theme
+  - [https://github.com/topics/jekyll-theme](https://github.com/topics/jekyll-theme)
   - 테마마다 설정 방법이 조금씩 상이하므로 편의상 첫 번째 나오는 mmistakes / minimal-mistakes를 권장합니다.
 
   ![Join GitHub](../images/04-01_Select-Theme.png){: width="600px"}
