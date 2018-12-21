@@ -12,7 +12,7 @@ Repository는 다른 사람과 공동으로 작업할 수 있도록 설정 가�
 
 * Repository명을 입력하고 README.md 부분의 체크박스를 체크합니다.
 
-  ![Create Repository](../images/02-01_New-Repository.png){: width="600px"}
+  ![Create Repository](../images/02-02_Create-Repository.png){: width="600px"}
 
 
 * Settings에서 Collaborators를 선택합니다.
