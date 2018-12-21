@@ -186,8 +186,6 @@ Today's Mission 1
 <br><br>
 @snapend
 
-@fa[arrow-down text-black]
-
 ---?image=images/ssafy_bg.png
 @title[Today's Mission 2]
 
