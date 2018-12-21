@@ -17,6 +17,7 @@ Let's take advantages of Git and Markdown
 @snapend
 
 @snap[list-content-concise]
+<br>
 @ol[list-bullets-black](false)
 - 마크다운 형식의 문서를 이해한다.
 - Git Pitch를 활용하여 마크다운 문서를 프레젠테이션으로 활용한다.
@@ -32,7 +33,7 @@ Let's take advantages of Git and Markdown
 Today's Mission 1
 @snapend
 
-@snap[north title-sub]
+@snap[title-sub]
 팀소개 프레젠테이션 만들기
 @snapend
 
