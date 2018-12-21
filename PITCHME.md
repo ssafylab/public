@@ -32,10 +32,13 @@ Git과 markdown을 잘 활용해보자!
 Today's Mission 1
 @snapend
 
-@snap[list-converged span-100]
-@ul[](false)
+@snap[sub-title]
 팀별 블로그를 만들고 다음과 같이 활용해 봅시다.
 팀소개 프레젠테이션 만들기
+@snapend
+
+@snap[list-converged span-100]
+@ul[](false)
 * PITCHME.md 문서를 만들고 아래 내용을 포함하여 작성합니다.
   * 팀원들의 이름과 별명, 성격
   * 팀원 또는 팀원들의 특징을 잘 나타낼 수 있는 사진 
