@@ -164,10 +164,6 @@ Self-Learning
 <br><br>
 @snapend
 
-@snap[title-bottom text-gray]
-https://ssafy2018.github.io/public
-@snapend
-
 @fa[arrow-down text-black]
 
 +++?image=images/ssafy_bg.png
