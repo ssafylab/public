@@ -10,12 +10,12 @@
 ---?image=images/ssafy_bg.png
 @title[Title + Concise List]
 
-@snap[north-west]
+@snap[north-west span-100]
 목표
 @snapend
 
 @snap[south-west list-content-concise span-100]
-@ol[list-bullets-black](false)
+@ol[list-content-verbose]
 - 마크다운 형식의 문서를 이해한다.
 - Git Pitch를 활용하여 마크다운 문서를 프레젠테이션으로 활용한다.
 - GitHub 블로그를 생성하고 포스팅하는 방법을 익힌다.
