@@ -2,6 +2,7 @@
 @title[List Content Templates]
 
 @snap[title-main text-black]
+<br>
 Git과 markdown을 잘 활용해보자!
 @snapend
 
