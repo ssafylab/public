@@ -138,7 +138,8 @@ Self-Learning
 @snapend
 
 @snap[title-sub]
-그럼, 아래 항목들을 순서대로 진행하며 오늘의 미션을 완수해 볼까요?
+그럼, 아래 항목들을 순서대로 진행하며<br>
+오늘의 미션을 완수해 볼까요?
 @snapend
 
 @snap[list-content-concise]
