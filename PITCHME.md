@@ -1,7 +1,7 @@
 ---?image=images/ssafy_main.png&position=top
 @title[List Content Templates]
 
-### @color[black](Git과 markdown을 잘 활용해보자!)
+#### @color[black](Git과 markdown을 잘 활용해보자!)
 
 @snap[south span-20 text-gray]
 @size[0.6](Let's take an advantage of Git and Markdown)
