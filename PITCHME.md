@@ -6,7 +6,7 @@ Git과 markdown을 잘 활용해보자!
 @snapend
 
 @snap[span-100 text-gray]
-@size[0.4em](Let's take advantages of Git and Markdown)
+@size[0.6em](Let's take advantages of Git and Markdown)
 @snapend
 
 ---?image=images/ssafy_bg.png
@@ -16,7 +16,7 @@ Git과 markdown을 잘 활용해보자!
 목표
 @snapend
 
-@snap[south list-content-concise span-100]
+@snap[list-content-concise span-100]
 @ol[list-bullets-black](false)
 - 마크다운 형식의 문서를 이해한다.
 - Git Pitch를 활용하여 마크다운 문서를 프레젠테이션으로 활용한다.
