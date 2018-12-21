@@ -34,7 +34,7 @@ Today's Mission 1</br>
 @snapend
 
 @snap[list-content-verbose span-100]
-@ul[](false)
+@ul[list-bullet-circles](false)
 * PITCHME.md 문서를 만들고 아래 내용을 포함하여 작성합니다.
   * 팀원들의 이름과 별명, 성격
   * 팀원 또는 팀원들의 특징을 잘 나타낼 수 있는 사진 
@@ -71,9 +71,10 @@ Git이란 무엇일까요?
 
 @snap[list-content-concise span-100]
 @ul[](false)
-- 마크다운 형식의 문서를 이해한다.
-- Git Pitch를 활용하여 마크다운 문서를 프레젠테이션으로 활용한다.
-- GitHub 블로그를 생성하고 포스팅하는 방법을 익힌다.
+- 리눅스의 창시자로 알려진 리누스 토발즈에 의해 고안된 버전 관리 시스템(VCS)
+- 온라인 작업 공간과 변경이력 관리 기능 등을 제공
 @ulend
 <br><br>
 @snapend
+
+
