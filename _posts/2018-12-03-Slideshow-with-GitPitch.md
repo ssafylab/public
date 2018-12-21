@@ -27,7 +27,7 @@ GitPitch는 이렇게 작성된 Markdown 문서를 슬라이드로 렌더링해�
 
 * Repository에서 PICHME.md 파일을 클릭하면 생성된 마크다운 문서를 볼 수 있습니다.
 
-  ![Create PITCHME.md](../images/03-03_PITCHME-Created.png){: width="600px"}
+  ![PITCHME Created.md](../images/03-03_PITCHME-Created.png){: width="600px"}
 
 
 * 이제 웹 브라우저 주소창에 아래와 같이 입력해 볼까요?
@@ -35,9 +35,9 @@ GitPitch는 이렇게 작성된 Markdown 문서를 슬라이드로 렌더링해�
     (Branch명이 master이면 생략 가능)
   - 예: https://gitpitch.com/ssafy2018/public
 
-![Create PITCHME.md](../images/03-04_GitPitch-Slideshow1.png){: width="600px"}
+  ![Slide Show.md](../images/03-04_GitPitch-Slideshow1.png){: width="600px"}
 
-![Create PITCHME.md](../images/03-05_GitPitch-Slideshow2.png){: width="600px"}
+  ![Slide Show.md](../images/03-05_GitPitch-Slideshow2.png){: width="600px"}
 
 
 * 똑같은 파일이지만 GitHub에서 본 것과는 다르게 슬라이드쇼로 나타나는 것을 볼 수 있습니다.
