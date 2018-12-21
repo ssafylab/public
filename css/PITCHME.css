@@ -36,6 +36,11 @@
   font-size: 0.8em;
 }
 
+.title-bottom {
+  margin: 0 0 10px 0;
+  font-size: 0.6em;
+}
+
 /* List-Content Template Styles */
 
 .list-converged li {
