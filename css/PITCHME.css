@@ -21,7 +21,12 @@
 
 /* Title Style */
 
-.sub-title {
+.title-top {
+  margin: 0 0 10px 0;
+  font-size: 1.0em;
+}
+
+.title-sub {
   margin: 0 0 10px 0;
   font-size: 0.8em;
 }
