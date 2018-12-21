@@ -40,7 +40,7 @@ GitHub는 Page 기능을 제공하는데, Jekyll과 같은 테마를 적용해 �
   ![Join GitHub](../images/04-04_Modify-Config-File.png){: width="600px"}
 
 
-* 블로그의 시작 페이지 역할을 할 index 파일을 만들고 layout 값을 적어 [Commit]합니다.
+* 블로그의 시작 페이지 역할을 할 index.html 파일을 만들고 layout 값을 적어 [Commit]합니다.
   ```
   ---
   layout: home
