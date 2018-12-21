@@ -10,7 +10,7 @@ Let's take advantages of Git and Markdown
 @snapend
 
 
-@snap[title-main text-black]
+@snap[south title-main text-black]
 https://gitpitch.com/ssafy2018/public
 @snapend
 
