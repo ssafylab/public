@@ -26,6 +26,8 @@ Let's take advantages of Git and Markdown
 <br><br>
 @snapend
 
+@fa[arrow-down text-black]
+
 +++?image=images/ssafy_bg.png
 @title[Title + List Fragments]
 
@@ -48,6 +50,8 @@ Today's Mission 1
 @ulend
 <br><br>
 @snapend
+
+@fa[arrow-down text-black]
 
 +++?image=images/ssafy_bg.png
 @title[Title + List Fragments]
@@ -152,3 +156,49 @@ Self-Learning
 @olend
 <br><br>
 
++++?image=images/ssafy_bg.png
+@title[Title + List Fragments]
+
+@snap[north title-top text-blue]
+Today's Mission 1
+@snapend
+
+@snap[title-sub]
+팀소개 프레젠테이션 만들기
+@snapend
+
+@snap[list-content-verbose]
+<br>
+@ul[](false)
+* PITCHME.md 문서를 만들고 아래 내용을 포함하여 작성합니다.
+  * 팀원들의 이름과 별명, 성격
+  * 팀원 또는 팀원들의 특징을 잘 나타낼 수 있는 사진 
+  * 연말 계획 및 12월 31일에 하고 싶은 것
+* Git Pitch로 해당 문서를 열어 슬라이드가 잘 만들어졌는지 확인합니다. 
+@ulend
+<br><br>
+@snapend
+
+@fa[arrow-down text-black]
+
++++?image=images/ssafy_bg.png
+@title[Title + List Fragments]
+
+@snap[north title-top text-blue]
+Today's Mission 2
+@snapend
+
+@snap[title-sub]
+스타트캠프 주제로 블로그에 포스팅하기
+@snapend
+
+@snap[list-content-verbose]
+<br>
+@ul[](false)
+* 팀 소개 프레젠테이션 링크 걸기
+* 주제1
+* 주제2
+* 주제3
+@ulend
+<br><br>
+@snapend
