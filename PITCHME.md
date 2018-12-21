@@ -3,14 +3,14 @@
 ### Git과 markdown을 잘 활용해보자!
 ###### Let's take an advantage of Git and Markdown
 
----?image=images/ssafy_bg.png
+---
 
 * 목표
   - 마크다운 형식의 문서를 이해한다.
   - Git Pitch를 활용하여 마크다운 문서를 프레젠테이션으로 활용한다.
   - GitHub 블로그를 생성하고 포스팅하는 방법을 익힌다.
 
-+++?image=images/ssafy_bg.png
++++
 
 ## Today's Mission 
 ###### 팀별 블로그를 만들고 다음과 같이 활용해 봅시다.
