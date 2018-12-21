@@ -156,6 +156,8 @@ Self-Learning
 @olend
 <br><br>
 
+@fa[arrow-down text-black]
+
 +++?image=images/ssafy_bg.png
 @title[Title + List Fragments]
 
