@@ -16,7 +16,7 @@ Let's take advantages of Git and Markdown
 목표
 @snapend
 
-@snap[list-content-concise span-100]
+@snap[list-content-concise]
 @ol[list-bullets-black](false)
 - 마크다운 형식의 문서를 이해한다.
 - Git Pitch를 활용하여 마크다운 문서를 프레젠테이션으로 활용한다.
@@ -33,7 +33,7 @@ Today's Mission 1</br>
 팀소개 프레젠테이션 만들기</br></br>
 @snapend
 
-@snap[list-content-verbose span-100]
+@snap[list-content-verbose]
 @ul[list-bullet-circles](false)
 * PITCHME.md 문서를 만들고 아래 내용을 포함하여 작성합니다.
   * 팀원들의 이름과 별명, 성격
@@ -52,7 +52,7 @@ Today's Mission 2</br>
 스타트캠프 주제로 블로그에 포스팅하기</br></br>
 @snapend
 
-@snap[list-content-verbose span-100]
+@snap[list-content-verbose]
 @ul[](false)
 * 팀소개 프레젠테이션 링크
 * 주제1
@@ -69,7 +69,7 @@ Today's Mission 2</br>
 Git이란 무엇일까요?
 @snapend
 
-@snap[list-content-concise span-100]
+@snap[north list-content-concise]
 <br>
 @ul[](false)
 - 리눅스의 창시자로 알려진 리누스 토발즈에 의해 고안된 버전 관리 시스템(VCS)
@@ -89,7 +89,7 @@ Git이란 무엇일까요?
 Git은 다음과 같은 목적을 지향하며, DevOps 환경에 상당한 편의성을 제공하고 있습니다. 
 @snapend
 
-@snap[list-content-concise span-100]
+@snap[list-content-concise]
 <br>
 @ul[](false)
 - 빠른 속도 
@@ -112,7 +112,7 @@ Git은 다음과 같은 목적을 지향하며, DevOps 환경에 상당한 편�
 VCS의 장점 중 대표적인 것은 아래와 같으며, 개발/운영의 요구사항을 쉽게 반영하고 관리할 수 있습니다.
 @snapend
 
-@snap[list-content-concise span-100]
+@snap[list-content-concise]
 <br>
 @ul[](false)
 - 개별 파일들에 대한 버전 관리가 가능하다는 점 
@@ -132,7 +132,7 @@ VCS의 장점 중 대표적인 것은 아래와 같으며, 개발/운영의 요�
 그럼, 아래 항목들을 순서대로 진행하며 오늘의 미션을 완수해 볼까요?
 @snapend
 
-@snap[list-content-concise span-100]
+@snap[list-content-concise]
 @ol[list-bullets-black](false)
 1. GitHub 가입하기: [click](https://ssafy2018.github.io/public/Join-GitHub/)
 2. 블로그 만들기: [click](https://ssafy2018.github.io/public/Add-Collaborator/) 
