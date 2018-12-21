@@ -98,12 +98,9 @@ Git의 목적
 @snapend
 
 @snap[list-content-concise]
-<br>
 @ul[](false)
-- 빠른 속도 
-- 간단한 구조 
-- 비선형적 개발 
-- 완전 분리 
+- 빠른 속도        - 간단한 구조 
+- 비선형적 개발    - 완전 분리 
 - 대규모 프로젝트의 효율화
 @ulend
 <br><br>
@@ -121,7 +118,6 @@ VCS의 장점 중 대표적인 것은 아래와 같으며, 개발/운영의 요�
 @snapend
 
 @snap[list-content-concise]
-<br>
 @ul[](false)
 - 개별 파일들에 대한 버전 관리가 가능하다는 점 
 - 분할/병합을 통해 병렬 작업이 가능하다는 점
