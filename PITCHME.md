@@ -155,13 +155,17 @@ Self-Learning
 
 @snap[list-content-concise]
 @ol[list-bullets-black](false)
-1. GitHub 가입하기: <br>[https://ssafy2018.github.io/public/Join-GitHub/](https://ssafy2018.github.io/public/Join-GitHub/)
-2. 블로그 만들기: <br>[https://ssafy2018.github.io/public/Add-Collaborator/](https://ssafy2018.github.io/public/Add-Collaborator/) 
-3. 공동 작업 환경 만들기: <br>[https://ssafy2018.github.io/public/Slideshow-with-GitPitch/](https://ssafy2018.github.io/public/Slideshow-with-GitPitch/)
-4. Git Pitch 슬라이드 기능 활용하기: <br>[https://ssafy2018.github.io/public/Create-Page-with-Theme/](https://ssafy2018.github.io/public/Create-Page-with-Theme/) 
-5. 블로그에 포스팅하기: <br>[https://ssafy2018.github.io/public/Posting-on-Your-Blog/](https://ssafy2018.github.io/public/Posting-on-Your-Blog/)
+1. GitHub 가입하기: [click](https://ssafy2018.github.io/public/Join-GitHub/)
+2. 블로그 만들기: [click](https://ssafy2018.github.io/public/Add-Collaborator/) 
+3. 공동 작업 환경 만들기: [click](https://ssafy2018.github.io/public/Slideshow-with-GitPitch/)
+4. Git Pitch 슬라이드 기능 활용하기: [click](https://ssafy2018.github.io/public/Create-Page-with-Theme/) 
+5. 블로그에 포스팅하기: [click](https://ssafy2018.github.io/public/Posting-on-Your-Blog/)
 @olend
 <br><br>
+
+@snap[title-bottom text-gray]
+https://ssafy2018.github.io/public
+@snapend
 
 @fa[arrow-down text-black]
 
