@@ -29,11 +29,15 @@ Let's take advantages of Git and Markdown
 @title[Title + List Fragments]
 
 @snap[north title-top]
-Today's Mission 1</br>
-팀소개 프레젠테이션 만들기</br></br>
+Today's Mission 1
+@snapend
+
+@snap[north title-sub]
+팀소개 프레젠테이션 만들기
 @snapend
 
 @snap[list-content-verbose]
+<br>
 @ul[list-bullet-circles](false)
 * PITCHME.md 문서를 만들고 아래 내용을 포함하여 작성합니다.
   * 팀원들의 이름과 별명, 성격
