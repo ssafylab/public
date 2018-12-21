@@ -162,6 +162,7 @@ Self-Learning
 5. 블로그에 포스팅하기: [click](https://ssafy2018.github.io/public/Posting-on-Your-Blog/)
 @olend
 <br><br>
+@snapend
 
 @snap[title-bottom text-gray]
 https://ssafy2018.github.io/public
