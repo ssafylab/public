@@ -70,6 +70,7 @@ Git이란 무엇일까요?
 @snapend
 
 @snap[list-content-concise span-100]
+<br>
 @ul[](false)
 - 리눅스의 창시자로 알려진 리누스 토발즈에 의해 고안된 버전 관리 시스템(VCS)
 - 온라인 작업 공간과 변경이력 관리 기능 등을 제공
@@ -77,4 +78,67 @@ Git이란 무엇일까요?
 <br><br>
 @snapend
 
+@snap[south]
+![What is Git](images/what_is_git.png)
+@snapend
+
+---?image=images/ssafy_bg.png
+@title[Title + Concise List]
+
+@snap[north title-top]
+Git은 다음과 같은 목적을 지향하며, DevOps 환경에 상당한 편의성을 제공하고 있습니다. 
+@snapend
+
+@snap[list-content-concise span-100]
+<br>
+@ul[](false)
+- 빠른 속도 
+- 간단한 구조 
+- 비선형적 개발 
+- 완전 분리 
+- 대규모 프로젝트의 효율화
+@ulend
+<br><br>
+@snapend
+
+@snap[south]
+![Purpose of Git](images/purpose_of_git.png)
+@snapend
+
+---?image=images/ssafy_bg.png
+@title[Title + Concise List]
+
+@snap[north title-top]
+VCS의 장점 중 대표적인 것은 아래와 같으며, 개발/운영의 요구사항을 쉽게 반영하고 관리할 수 있습니다.
+@snapend
+
+@snap[list-content-concise span-100]
+<br>
+@ul[](false)
+- 개별 파일들에 대한 버전 관리가 가능하다는 점 
+- 분할/병합을 통해 병렬 작업이 가능하다는 점
+@ulend
+<br><br>
+@snapend
+
+@snap[south]
+![Pros of VCS](images/pros_of_vcs.png)
+@snapend
+
+---?image=images/ssafy_bg.png
+@title[Title + Concise List]
+
+@snap[north title-top]
+그럼, 아래 항목들을 순서대로 진행하며 오늘의 미션을 완수해 볼까요?
+@snapend
+
+@snap[list-content-concise span-100]
+@ol[list-bullets-black](false)
+1. GitHub 가입하기: [click](https://ssafy2018.github.io/public/Join-GitHub/)
+2. 블로그 만들기: [click](https://ssafy2018.github.io/public/Add-Collaborator/) 
+3. 공동 작업 환경 만들기: [click](https://ssafy2018.github.io/public/Slideshow-with-GitPitch/)
+4. Git Pitch 슬라이드 기능 활용하기: [click](https://ssafy2018.github.io/public/Create-Page-with-Theme/) 
+5. 블로그에 포스팅하기: [click](https://ssafy2018.github.io/public/Posting-on-Your-Blog/)
+@olend
+<br><br>
 
