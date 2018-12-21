@@ -162,10 +162,9 @@ Self-Learning
 5. 블로그에 포스팅하기: [click](https://ssafy2018.github.io/public/Posting-on-Your-Blog/)
 @olend
 <br><br>
+@snapend
 
-@fa[arrow-down text-black]
-
-+++?image=images/ssafy_bg.png
+---?image=images/ssafy_bg.png
 @title[Today's Mission 1]
 
 @snap[north title-top text-blue]
@@ -190,7 +189,7 @@ Today's Mission 1
 
 @fa[arrow-down text-black]
 
-+++?image=images/ssafy_bg.png
+---?image=images/ssafy_bg.png
 @title[Today's Mission 2]
 
 @snap[north title-top text-blue]
