@@ -114,13 +114,14 @@ Git의 목적
 @title[Title + Concise List]
 
 @snap[north title-top]
-VCS의 장점 중 대표적인 것은 아래와 같으며, 개발/운영의 요구사항을 쉽게 반영하고 관리할 수 있습니다.
+Git의 장점
 @snapend
 
 @snap[list-content-concise]
 @ul[](false)
-- 개별 파일들에 대한 버전 관리가 가능하다는 점 
-- 분할/병합을 통해 병렬 작업이 가능하다는 점
+- 개별 파일들에 대한 버전 관리가 가능
+- 분할/병합을 통해 병렬 작업이 가능
+- 개발 과정의 요구사항을 쉽게 반영하고 관리
 @ulend
 <br><br>
 @snapend
