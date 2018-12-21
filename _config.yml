@@ -12,14 +12,14 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 title                    : "SSAFY 2018-2019"
 title_separator          : "-"
 name                     : ""
-description              : "Samsung Software Acamedy for Youth"
+description              : "Samsung Software Academy for Youth"
 url                      : "https://ssafy2018.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/public" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -103,10 +103,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Aonymous"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Seoul"
+  name             : "SSAFY 2018-2019"
+  avatar           : "/images/ssafy_logo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Samsung Software Academy For Youth"
+  location         : 
   email            :
   links:
     - label: "Email"
