@@ -30,7 +30,7 @@ GitHub는 Page 기능을 제공하는데, Jekyll과 같은 테마를 적용해 �
 * 파일명을 \_config.yml로 하고 본문에 복사한 내용을 붙여 넣습니다.
 * 단, 내용 중 일부는 현재 환경에 맞게 변경해야 하므로 아래 항목을 수정합니다.
   ```
-  ~#~ remote_theme           : "mmistakes/minimal-mistakes"
+  remote_theme             : "mmistakes/minimal-mistakes"
   title                    : "팀명"
   description              : "한 줄 소개"
   url                      : "https://사용자명.github.io" \# 예: https://ssafy2018.github.io"
