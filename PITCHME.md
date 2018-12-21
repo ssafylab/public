@@ -3,7 +3,7 @@
 
 #### @color[black](Git과 markdown을 잘 활용해보자!)
 
-@snap[south text-gray]
+@snap[text-gray]
 @size[0.4](Let's take an advantage of Git and Markdown)
 @snapend
 
