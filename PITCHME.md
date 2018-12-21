@@ -1,7 +1,8 @@
 ---?image=images/ssafy_main.png
 
-### @css[main](Git과 markdown을 잘 활용해보자!)
-###### Let's take an advantage of Git and Markdown
+@size[1.2em](Git과 markdown을 잘 활용해보자!)
+
+@size[0.6em](Let's take an advantage of Git and Markdown)
 
 ---
 
