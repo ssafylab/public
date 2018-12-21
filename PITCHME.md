@@ -1,4 +1,4 @@
----?image=images/ssafy_main.png
+---?image=images/ssafy_main.png&position=top&size=20% auto
 @title[List Content Templates]
 
 #### @color[black](Git과 markdown을 잘 활용해보자!)
@@ -11,7 +11,7 @@ Let's take an advantage of Git and Markdown
 @title[Title + Concise List]
 
 @snap[north-west]
-
+목표
 @snapend
 
 @snap[south-west list-content-concise span-100]
@@ -23,22 +23,37 @@ Let's take an advantage of Git and Markdown
 @snapend
 
 +++?image=images/ssafy_bg.png
+@title[Title + Concise List]
 
-## Today's Mission 
-###### 팀별 블로그를 만들고 다음과 같이 활용해 봅시다.
-###### 팀소개 프레젠테이션 만들기
+@snap[north-west]
+Today's Mission 
+@snapend
+
+@snap[south-west]
+팀별 블로그를 만들고 다음과 같이 활용해 봅시다.
+팀소개 프레젠테이션 만들기
+@snapend
+
+@snap[south-west list-content-concise span-100]
 1. PITCHME.md 문서를 만들고 아래 내용을 포함하여 작성합니다.
-  - 팀원들의 이름과 별명, 성격
-  - 팀원 또는 팀원들의 특징을 잘 나타낼 수 있는 사진 
-  - 연말 계획 및 12월 31일에 하고 싶은 것
-
+@ol
+- 팀원들의 이름과 별명, 성격
+- 팀원 또는 팀원들의 특징을 잘 나타낼 수 있는 사진 
+- 연말 계획 및 12월 31일에 하고 싶은 것
+@olend
 2. Git Pitch로 해당 문서를 열어 슬라이드가 잘 만들어졌는지 확인합니다. 
+@snapend
 
-###### 스타트캠프의 주요 주제들을 블로그에 포스팅해 봅시다.
+@snap[south-west]
+스타트캠프의 주요 주제들을 블로그에 포스팅해 봅시다.
+@snapend
+
+@snap[south-west list-content-concise span-100]
 1. 팀소개 프레젠테이션 링크
 2. 주제1
 3. 주제2
 4. 주제3
+@snapend
 
 ---?image=images/ssafy_bg.png
 
