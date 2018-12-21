@@ -5,7 +5,7 @@
 Git과 markdown을 잘 활용해보자!
 @snapend
 
-@snap[title-bottom text-gray]
+@snap[title-sub text-gray]
 Let's take advantages of Git and Markdown
 @snapend
 
