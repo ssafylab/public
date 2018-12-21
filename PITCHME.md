@@ -77,7 +77,9 @@ Git이란 무엇일까요?
 @ulend
 @snapend
 
+@snap[south]
 ![What is Git](images/what_is_git.png)
+@snapend
 
 ---?image=images/ssafy_bg.png
 @title[Title + Verbose List]
