@@ -39,7 +39,7 @@ Today's Mission 1
 
 @snap[list-content-verbose]
 <br>
-@ul[list-bullet-circles](false)
+@ul[](false)
 * PITCHME.md 문서를 만들고 아래 내용을 포함하여 작성합니다.
   * 팀원들의 이름과 별명, 성격
   * 팀원 또는 팀원들의 특징을 잘 나타낼 수 있는 사진 
