@@ -3,8 +3,8 @@
 
 #### @color[black](Git과 markdown을 잘 활용해보자!)
 
-@snap[south span-50]
-Let's take an advantage of Git and Markdown
+@snap[south span-100 text-gray]
+@size[0.8](Let's take an advantage of Git and Markdown)
 @snapend
 
 ---?image=images/ssafy_bg.png
