@@ -28,11 +28,11 @@ Git과 markdown을 잘 활용해보자!
 +++?image=images/ssafy_bg.png
 @title[Title + List Fragments]
 
-@snap[north-west]
-Today's Mission 1 [ Step-by-Step ]
+@snap[north]
+Today's Mission 1
 @snapend
 
-@snap[south-west list-content-concise span-100]
+@snap[list-content-concise span-100]
 @ol
 팀별 블로그를 만들고 다음과 같이 활용해 봅시다.
 팀소개 프레젠테이션 만들기
@@ -48,13 +48,13 @@ Today's Mission 1 [ Step-by-Step ]
 +++?image=images/ssafy_bg.png
 @title[Title + List Fragments]
 
-@snap[north-west]
-Today's Mission 2 [ Step-by-Step ]
+@snap[north]
+Today's Mission 2
 @snapend
 
-@snap[south-west list-content-concise span-100]
+@snap[list-content-concise span-100]
 @ol
-1. 팀소개 프레젠테이션 링크
+1. 팀소개 프레젠테이션 링크 블로그에 올리기
 2. 주제1
 3. 주제2
 4. 주제3
@@ -65,11 +65,11 @@ Today's Mission 2 [ Step-by-Step ]
 ---?image=images/ssafy_bg.png
 @title[Title + Verbose List]
 
-@snap[north-west]
+@snap[north]
 Git이란 무엇일까요?
 @snapend
 
-@snap[west list-content-verbose span-100]
+@snap[ist-content-verbose span-100]
 <br>
 @ul[](false)
 - 리눅스의 창시자로 알려진 리누스 토발즈에 의해 고안된 버전 관리 시스템(VCS)
@@ -84,11 +84,11 @@ Git이란 무엇일까요?
 ---?image=images/ssafy_bg.png
 @title[Title + Verbose List]
 
-@snap[north-west]
+@snap[north]
 Git은 다음과 같은 목적을 지향하며, DevOps 환경에 상당한 편의성을 제공하고 있습니다. 
 @snapend
 
-@snap[west list-content-verbose span-100]
+@snap[list-content-verbose span-100]
 <br>
 @ul[](false)
 - 빠른 속도 
@@ -99,16 +99,18 @@ Git은 다음과 같은 목적을 지향하며, DevOps 환경에 상당한 편�
 @ulend
 @snapend
 
+@snap[south]
 ![Purpose of Git](images/purpose_of_git.png)
+@snapend
 
 ---?image=images/ssafy_bg.png
 @title[Title + Verbose List]
 
-@snap[north-west]
+@snap[north]
 VCS의 장점 중 대표적인 것은 아래와 같으며, 개발/운영의 요구사항을 쉽게 반영하고 관리할 수 있습니다. 
 @snapend
 
-@snap[west list-content-verbose span-100]
+@snap[list-content-verbose span-100]
 <br>
 @ul[](false)
 - 개별 파일들에 대한 버전 관리가 가능하다는 점 
@@ -116,16 +118,18 @@ VCS의 장점 중 대표적인 것은 아래와 같으며, 개발/운영의 요�
 @ulend
 @snapend
 
+@snap[south]
 ![Pros of VCS](images/pros_of_vcs.png)
+@snepend
 
 ---?image=images/ssafy_bg.png
 @title[Title + List Fragments]
 
-@snap[north-west]
+@snap[north]
 그럼, 아래 항목들을 순서대로 진행하며 오늘의 미션을 완수해 볼까요?
 @snapend
 
-@snap[south-west list-content-concise span-100]
+@snap[south list-content-concise span-100]
 @ol
 팀별 블로그를 만들고 다음과 같이 활용해 봅시다.
 팀소개 프레젠테이션 만들기
