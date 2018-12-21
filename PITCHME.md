@@ -1,11 +1,11 @@
 ---?image=images/ssafy_main.png
 @title[List Content Templates]
 
-## @color[black](Git과 markdown을 잘 활용해보자!)
+@snap[span-200 text-black]
+Git과 markdown을 잘 활용해보자!
+@snapend
 
-@fa[arrow-down text-black]
-
-@snap[south docslink span-50]
+@snap[span-100 text-gray]
 Let's take advantages of Git and Markdown
 @snapend
 
