@@ -1,11 +1,11 @@
 ---?image=images/ssafy_main.png
 @title[List Content Templates]
 
-@snap[title-main span-200 text-black]
+@snap[title-main text-black]
 Git과 markdown을 잘 활용해보자!
 @snapend
 
-@snap[title-sub span-100 text-gray]
+@snap[title-bottom text-gray]
 Let's take advantages of Git and Markdown
 @snapend
 
