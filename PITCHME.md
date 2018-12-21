@@ -91,7 +91,7 @@ Git이란 무엇일까요?
 
 @snap[list-content-concise]
 @ul[](false)
-- 리눅스의 창시자로 알려진 리누스 토발즈에 의해 고안된 버전 관리 시스템(VCS)
+- 리눅스의 창시자로 알려진 리누스 토발즈에 의해 고안된 버전 관리 시스템(VCS - Version Control System)
 - 온라인 작업 공간과 변경이력 관리 기능 등을 제공
 @ulend
 <br><br>
