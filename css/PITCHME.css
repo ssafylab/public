@@ -19,6 +19,13 @@
   background-color: white !important;
 }
 
+/* Title Style */
+
+.sub-title {
+  margin: 0 0 10px 0;
+  font-size: 0.8em;
+}
+
 /* List-Content Template Styles */
 
 .list-converged li {
