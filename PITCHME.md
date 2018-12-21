@@ -12,7 +12,7 @@ Git과 markdown을 잘 활용해보자!
 
 @snap[title-main text-black]
 <br>
-https://gitpitch.com/ssafy2018/public[https://gitpitch.com/ssafy2018/public]
+[https://gitpitch.com/ssafy2018/public](https://gitpitch.com/ssafy2018/public)
 @snapend
 
 
