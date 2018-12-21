@@ -9,6 +9,12 @@ Git과 markdown을 잘 활용해보자!
 Let's take advantages of Git and Markdown
 @snapend
 
+
+@snap[title-main text-black]
+https://gitpitch.com/ssafy2018/public
+@snapend
+
+
 ---?image=images/ssafy_bg.png
 @title[Title + Concise List]
 
