@@ -1,5 +1,5 @@
 ---?image=images/ssafy_main.png
-@title[List Content Templates]
+@title[Git과 markdown을 잘 활용해보자!]
 
 @snap[title-main text-black]
 <br>
@@ -17,7 +17,7 @@ Git과 markdown을 잘 활용해보자!
 
 
 ---?image=images/ssafy_bg.png
-@title[Title + Concise List]
+@title[목표]
 
 @snap[north title-top]
 목표
@@ -36,7 +36,7 @@ Git과 markdown을 잘 활용해보자!
 @fa[arrow-down text-black]
 
 +++?image=images/ssafy_bg.png
-@title[Title + List Fragments]
+@title[Today's Mission 1]
 
 @snap[north title-top text-blue]
 Today's Mission 1
@@ -61,7 +61,7 @@ Today's Mission 1
 @fa[arrow-down text-black]
 
 +++?image=images/ssafy_bg.png
-@title[Title + List Fragments]
+@title[Today's Mission 2]
 
 @snap[north title-top text-blue]
 Today's Mission 2
@@ -83,7 +83,7 @@ Today's Mission 2
 @snapend
 
 ---?image=images/ssafy_bg.png
-@title[Title + Concise List]
+@title[Git이란 무엇일까요?]
 
 @snap[north title-top]
 Git이란 무엇일까요?
@@ -102,7 +102,7 @@ Git이란 무엇일까요?
 @snapend
 
 ---?image=images/ssafy_bg.png
-@title[Title + Concise List]
+@title[Git의 목적]
 
 @snap[north title-top]
 Git의 목적
@@ -122,7 +122,7 @@ Git의 목적
 @snapend
 
 ---?image=images/ssafy_bg.png
-@title[Title + Concise List]
+@title[Git의 장점]
 
 @snap[north title-top]
 Git의 장점
@@ -142,7 +142,7 @@ Git의 장점
 @snapend
 
 ---?image=images/ssafy_bg.png
-@title[Title + Concise List]
+@title[Self-Learning]
 
 @snap[north title-top text-blue]
 Self-Learning
@@ -166,7 +166,7 @@ Self-Learning
 @fa[arrow-down text-black]
 
 +++?image=images/ssafy_bg.png
-@title[Title + List Fragments]
+@title[Today's Mission 1]
 
 @snap[north title-top text-blue]
 Today's Mission 1
@@ -191,7 +191,7 @@ Today's Mission 1
 @fa[arrow-down text-black]
 
 +++?image=images/ssafy_bg.png
-@title[Title + List Fragments]
+@title[Today's Mission 2]
 
 @snap[north title-top text-blue]
 Today's Mission 2
