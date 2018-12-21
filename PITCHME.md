@@ -11,7 +11,7 @@
 
 +++?image=images/ssafy_bg.png
 ## Today's Mission 
-### 팀별 블로그를 만들고 다음과 같이 활용해 봅시다.
+###### 팀별 블로그를 만들고 다음과 같이 활용해 봅시다.
 ###### 팀소개 프레젠테이션 만들기
 1. PITCHME.md 문서를 만들고 아래 내용을 포함하여 작성합니다.
   - 팀원들의 이름과 별명, 성격
@@ -47,4 +47,13 @@ VCS의 장점 중 대표적인 것은 아래와 같으며, 개발/운영의 요�
 - 개별 파일들에 대한 버전 관리가 가능하다는 점 
 - 분할/병합을 통해 병렬 작업이 가능하다는 점
 
-![Pros of VCS](images/pros_of_vcs.png) ---?image=images/ssafy_bg.png 그럼, 아래 항목들을 순서대로 진행하며 오늘의 미션을 완수해 볼까요? 1. GitHub 가입하기: [click](https://nugunacoding.github.io/Join-GitHub) 2. 블로그 만들기: [click](https://nugunacoding.github.io/Create-Page-with-Theme) 3. 공동 작업 환경 만들기: [click](https://nugunacoding.github.io/Add-Collaborator) 4. Git Pitch 슬라이드 기능 활용하기: [click](https://nugunacoding.github.io/Slideshow-with-GitPitch) 5. 블로그에 포스팅하기: +++?image=images/ssafy_bg.png ## Today's Mission #### 팀별 블로그를 만들고 다음과 같이 활용해 봅시다. **팀소개 프레젠테이션 만들기** 1. PITCHME.md 문서를 만들고 아래 내용을 포함하여 작성합니다. - 팀원들의 이름과 별명, 성격 - 팀원 또는 팀원들의 특징을 잘 나타낼 수 있는 사진 - 연말 계획 및 12월 31일에 하고 싶은 것 2. Git Pitch로 해당 문서를 열어 슬라이드가 잘 만들어졌는지 확인합니다. ** 스타트캠프의 주요 주제들을 블로그에 포스팅해 봅시다.** 1. 팀소개 프레젠테이션 링크 2. 주제1 3. 주제2 4. 주제3
+![Pros of VCS](images/pros_of_vcs.png)
+
+---?image=images/ssafy_bg.png
+그럼, 아래 항목들을 순서대로 진행하며 오늘의 미션을 완수해 볼까요?
+
+1. GitHub 가입하기: [click](https://ssafy2018.github.io/public/Join-GitHub/)
+2. 블로그 만들기: [click](https://ssafy2018.github.io/public/Add-Collaborator/) 
+3. 공동 작업 환경 만들기: [click](https://ssafy2018.github.io/public/Slideshow-with-GitPitch/)
+4. Git Pitch 슬라이드 기능 활용하기: [click](https://ssafy2018.github.io/public/Create-Page-with-Theme/) 
+5. 블로그에 포스팅하기: [click](https://ssafy2018.github.io/public/Posting-on-Your-Blog/)
