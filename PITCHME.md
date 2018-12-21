@@ -29,7 +29,7 @@ Let's take advantages of Git and Markdown
 +++?image=images/ssafy_bg.png
 @title[Title + List Fragments]
 
-@snap[north title-top]
+@snap[north title-top text-blue]
 Today's Mission 1
 @snapend
 
@@ -52,14 +52,18 @@ Today's Mission 1
 +++?image=images/ssafy_bg.png
 @title[Title + List Fragments]
 
-@snap[north title-top]
-Today's Mission 2</br>
-스타트캠프 주제로 블로그에 포스팅하기</br></br>
+@snap[north title-top text-blue]
+Today's Mission 2
+@snapend
+
+@snap[title-sub]
+스타트캠프 주제로 블로그에 포스팅하기
 @snapend
 
 @snap[list-content-verbose]
+<br>
 @ul[](false)
-* 팀소개 프레젠테이션 링크
+* 팀 소개 프레젠테이션 링크 걸기
 * 주제1
 * 주제2
 * 주제3
@@ -74,8 +78,7 @@ Today's Mission 2</br>
 Git이란 무엇일까요?
 @snapend
 
-@snap[north list-content-concise]
-<br>
+@snap[list-content-concise]
 @ul[](false)
 - 리눅스의 창시자로 알려진 리누스 토발즈에 의해 고안된 버전 관리 시스템(VCS)
 - 온라인 작업 공간과 변경이력 관리 기능 등을 제공
@@ -91,7 +94,7 @@ Git이란 무엇일까요?
 @title[Title + Concise List]
 
 @snap[north title-top]
-Git은 다음과 같은 목적을 지향하며, DevOps 환경에 상당한 편의성을 제공하고 있습니다. 
+Git의 목적
 @snapend
 
 @snap[list-content-concise]
