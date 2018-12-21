@@ -3,7 +3,7 @@ title: GitPitch 슬라이드 기능 활용하기
 ---
 
 GitHub에서는 HTML, Markdown 형식 등의 문서를 지원합니다.
-GitPitch는 이렇게 작성된 Markdown 문서를 슬라이드로 렌더링해주는 프레젠테이션 도구로써, 별도의 절차없이 Git에 저장딘 문서를 불러와 슬라이드쇼로 볼 수 있습니다.
+GitPitch는 이렇게 작성된 Markdown 문서를 슬라이드로 렌더링해주는 프레젠테이션 도구로써, 별도의 절차없이 Git에 저장 문서를 불러와 슬라이드쇼로 볼 수 있습니다.
 
 * [Create new file]을 클릭합니다.
 
