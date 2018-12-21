@@ -18,10 +18,10 @@ theme-override: css/PITCHME.css
 # [Global] Background Settings
 # Doc: https://gitpitch.com/docs/settings/background
 #
-background : images/ssafy_bg.png
-background-opacity : 5
-background-position : bottom
-background-size : 100% 60%
+#background : images/ssafy_bg.png
+#background-opacity : 5
+#background-position : bottom
+#background-size : 100% 60%
 
 #
 # Logo Setting
