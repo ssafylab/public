@@ -38,7 +38,7 @@
 
 .title-bottom {
   margin: 0 0 10px 0;
-  font-size: 0.6em;
+  font-size: 0.4em;
 }
 
 /* List-Content Template Styles */
@@ -55,7 +55,7 @@
 
 .list-content-verbose ul {
   list-style-type: square;
-  font-size: 0.6em;
+  font-size: 0.8em;
 }
 
 .list-content-verbose li {
