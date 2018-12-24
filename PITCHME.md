@@ -158,7 +158,7 @@ Self-Learning
 1. GitHub 가입하기: [click](https://ssafy2018.github.io/public/Join-GitHub/)
 2. 공동 작업 환경 만들기: [click](https://ssafy2018.github.io/public/Add-Collaborator/) 
 3. Git Pitch 슬라이드 기능 활용하기: [click](https://ssafy2018.github.io/public/Slideshow-with-GitPitch/)
-4. 블로그 : [click](https://ssafy2018.github.io/public/Create-Page-with-Theme/) 
+4. 블로그 만들기 : [click](https://ssafy2018.github.io/public/Create-Page-with-Theme/) 
 5. 블로그에 포스팅하기: [click](https://ssafy2018.github.io/public/Posting-on-Your-Blog/)
 @olend
 <br><br>
