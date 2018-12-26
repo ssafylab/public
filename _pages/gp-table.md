@@ -12,7 +12,7 @@ GitPitch는 프레젠테이션에 최적화할 수 있도록 일반적으로 쓰
 |\-\-\-|새 페이지(가로)|\-\-\-<br>슬라이드1<br>\-\-\-<br>슬라이드2|
 |\+\+\+|새 페이지(세로)|\+\+\+<br>슬라이드1<br>\+\+\+<br>슬라이드2|
 |@title\[text]|페이지 제목|@title\[슬라이드1]|
-|@size\[값](text)|글자 크기|@size\[2.0em](안녕)하세요!|
-|@coloor\[값]|글자 색상|@color\[red](빨강), @color\[green](초록), @color\[#0000ff](파랑)|
 |@transition\[type]|페이지 전환 효과|@transition\[fade-in]|
+|@size\[값](text)|글자 크기|@size\[2.0em](안녕)하세요!|
+|@color\[값](text)|글자 색상|@color\[red](빨강), @color\[green](초록), @color\[#0000ff](파랑)|
 |@snap\[값]<br>text<br>\@snapend|레이아웃 설정|@snap\[south]<br>footer<br>@snapend|
