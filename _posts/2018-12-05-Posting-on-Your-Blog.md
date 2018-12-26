@@ -5,7 +5,7 @@ title: 블로그에 포스팅하기
 GitHub에 생성한 블로그는 Jekyll 테마에 의해 포스트 등이 자동 반영되어 나타납니다.
 단, md 파일로 만들어야 한다는 점과 경로, 파일명이 규칙에 맞게 되어 있어야 하는 점에 주의해야 합니다.
 
-* [Create new file]을 클릭합니다.
+* \[Create new file]을 클릭합니다.
 
   ![Create New File](../images/03-01_Create-New-File.png){: width="600px"}
 
@@ -26,7 +26,7 @@ main:
   ![About Us](../images/05-03-About-Us.png){: width="600px"}
 
 
-* 이번에는 [Create new file]을 클릭하고 아래 내용으로 _posts/2018-12-26-First-Post.md 파일을 생성합니다.
+* 이번에는 \[Create new file]을 클릭하고 아래 내용으로 \_posts/2018-12-26-First-Post.md 파일을 생성합니다.
   ```
   ---
   title: 자기 주도 학습
