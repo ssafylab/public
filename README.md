@@ -21,5 +21,5 @@
     - **gp-table.md**: GitPitch 문법 안내 페이지
     - **topic1.md**: 오늘의 미션 과제1 페이지
     - **topic2.md**: 오늘의 미션 과제2 페이지
-  - **\_posts**: 블로그에 포스팅할 글이 들어가는 디렉토리(YYYY-MM-DD-TITLE.md 형식을 지켜야 하며, Jekyll 테마에서 자동으로 읽어 표시함)
+  - **\_posts**: 블로그에 포스팅할 글이 들어가는 디렉토리(YYYY-MM-DD-title.md 형식을 지켜야 하며, Jekyll 테마에서 자동으로 읽어 표시해 줌)
   
