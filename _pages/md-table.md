@@ -3,6 +3,9 @@ permalink: /Markdown-Table/
 title: "Markdown Syntax"
 ---
 
+Markdown 문서를 작성하는 데에 필요한 문법은 [GitHub Help](https://help.github.com/articles/basic-writing-and-formatting-syntax/)에서 자세히 볼 수 있습니다.
+여기서는 주로 사용되는 것들을 표로 간단히 소개하니, 더 알아보고 싶다면 위 링크를 참조해 주세요.
+
 ## Text
 
 |Syntax|Description|Example|
