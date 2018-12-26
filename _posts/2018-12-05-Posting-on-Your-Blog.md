@@ -11,6 +11,7 @@ GitHub에 생성한 블로그는 Jekyll 테마에 의해 포스트 등이 자동
 
 
 * 파일명을 \_data/navagation.yml으로 입력하고 내용을 아래와 같이 작성합니다.
+
   ```
   main:
   - title: about us
