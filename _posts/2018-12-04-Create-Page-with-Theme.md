@@ -33,8 +33,8 @@ GitHub는 Page 기능을 제공하는데, Jekyll과 같은 테마를 적용해 �
   remote_theme             : "mmistakes/minimal-mistakes"
   title                    : "팀명"
   description              : "한 줄 소개"
-  url                      : "https://사용자명.github.io" \# 예: https://ssafy2018.github.io"
-  baseurl                  : "Repository명" \# "public"
+  url                      : "https://사용자명.github.io" # 예: https://ssafy2018.github.io"
+  baseurl                  : "Repository명" # "public"
   ```
   
   ![Join GitHub](../images/04-04_Modify-Config-File.png){: width="600px"}
