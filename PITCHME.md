@@ -75,9 +75,8 @@ Today's Mission 2
 <br>
 @ul[](false)
 * 팀 소개 프레젠테이션 링크 걸기
-* 주제1에 대해 포스팅하기
-* 주제2에 대해 포스팅하기
-* 주제3에 대해 포스팅하기
+* [주제1(1주차)](https://ssafy2018.github.io/public/Topic1/)에 대해 포스팅하기
+* [주제2(2주차)](https://ssafy2018.github.io/public/Topic2/)에 대해 포스팅하기
 @ulend
 <br><br>
 @snapend
@@ -201,9 +200,8 @@ Today's Mission 2
 <br>
 @ul[](false)
 * 팀 소개 프레젠테이션 링크 걸기
-* 주제1에 대해 포스팅하기
-* 주제2에 대해 포스팅하기
-* 주제3에 대해 포스팅하기
+* [주제1(1주차)](https://ssafy2018.github.io/public/Topic1/)에 대해 포스팅하기
+* [주제2(2주차)](https://ssafy2018.github.io/public/Topic2/)에 대해 포스팅하기
 @ulend
 <br><br>
 @snapend
