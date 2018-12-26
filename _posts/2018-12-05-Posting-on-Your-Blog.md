@@ -14,7 +14,7 @@ GitHub에 생성한 블로그는 Jekyll 테마에 의해 포스트 등이 자동
   ```
   main:
   - title: about us
-    url: *GitPitch경로*
+    url: GitPitch경로
   ```
   
   ![Create Navigation](../images/05-02-Create-Navigation.png){: width="600px"}
