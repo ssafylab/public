@@ -11,12 +11,11 @@ GitHub에 생성한 블로그는 Jekyll 테마에 의해 포스트 등이 자동
 
 
 * 파일명을 \_data/navagation.yml으로 입력하고 내용을 아래와 같이 작성합니다.
-
-```
-main:
-- title: about us
-  url: *GitPitch경로*
-```
+  ```
+  main:
+  - title: about us
+    url: *GitPitch경로*
+  ```
   
   ![Create Navigation](../images/05-02-Create-Navigation.png){: width="600px"}
 
