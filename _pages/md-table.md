@@ -13,7 +13,7 @@ title: "Markdown Syntax"
 |\*\*text\*\*|강조|\*\*절대\*\* 지각하지 말아 주세요!!|
 |\~\~text\~\~|취소선|오늘 오후 수업을 특별히 \~\~13시\~\~ 14시부터 시작하겠습니다.|
 |\>|인용|드디어 메일을 받았습니다.<br>\>"합격입니다."|
-|\\|특수기호 사용|별표(\\\*)를 2개 사용해 글자를 강조할 수 있습니다.|
+|\ |특수기호 사용|별표(\\\*)를 2개 사용해 글자를 강조할 수 있습니다.|
 
 ## Paragraph
 
@@ -27,7 +27,7 @@ title: "Markdown Syntax"
 |Syntax|Description|Example|
 |------|-----------|-------|
 |1. 2. 3. |순번이 있는 목록|1. Language<br>2. Algorithm<br>3. Project|
-|\* \-|순번 없는 목록|\*Ground Rule<br>\-Don't be late.|
+|\* \-|순번 없는 목록|\*Ground Rule<br>  \-Don't be late.|
 |\-[ ] \-[x]|체크리스트| \-[ ] not done<br>\-[x] done|
 
 ## Code
@@ -36,6 +36,7 @@ title: "Markdown Syntax"
 |------|-----------|-------|
 |\`code\` |중간 삽입|파이썬이 처음이라면 \`print('Hello, World')\`부터 해봅시다.|
 |\`\`\`<br>code<br>\`\`\`|텍스트 박스|이번엔 다음과 같이 해볼까요?<br>\`\`\`<br>for i in range(0, 10):<br>  print('Hello, Workld')<br>\`\`\`|
+|\`\`\`python<br>code<br>\`\`\`|텍스트 박스(특정 언어 스타일)|이번엔 다음과 같이 해볼까요?<br>\`\`\`<br>for i in range(0, 10):<br>  print('Hello, Workld')<br>\`\`\`|
 
 # Insert
 
@@ -43,4 +44,4 @@ title: "Markdown Syntax"
 |------|-----------|-------|
 |\[text](address)|링크|\[Go to SSAFY](edu.ssafy.com)|
 |\!\[text](address)|이미지|\!\[SSAFY Image](https://edu.ssafy.com/asset/images/logo.png)|
-| \- \|| 테이블(표)|\|Name\|Speciality\|<br>\|----\|----\|<br>\|John\|Java\|<br>\|Peter\|Python\|
+| \- \|| 테이블(표)|\|Name\|Speciality\|<br>\|\-\-\-\-\|\-\-\-\-\-\-\|<br>\|John\|Java\|<br>\|Peter\|Python\|
