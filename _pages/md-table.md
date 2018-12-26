@@ -35,8 +35,8 @@ title: "Markdown Syntax"
 |Syntax|Description|Example|
 |------|-----------|-------|
 |\`code\` |중간 삽입|파이썬이 처음이라면 \`print('Hello, World')\`부터 해봅시다.|
-|\`\`\`<br>code<br>\`\`\`|텍스트 박스|이번엔 다음과 같이 해볼까요?<br>\`\`\`<br>for i in range(0, 10):<br>  print('Hello, Workld')<br>\`\`\`|
-|\`\`\`python<br>code<br>\`\`\`|텍스트 박스(특정 언어 스타일)|이번엔 다음과 같이 해볼까요?<br>\`\`\`<br>for i in range(0, 10):<br>  print('Hello, Workld')<br>\`\`\`|
+|\`\`\`<br>code<br>\`\`\`|텍스트 박스|이번엔 다음과 같이 해볼까요?<br>\`\`\`<br>for i in range(0, 10):<br>&nbsp;&nbsp;print('Hello, Workld')<br>\`\`\`|
+|\`\`\`python<br>code<br>\`\`\`|텍스트 박스(특정 언어 스타일)|이번엔 다음과 같이 해볼까요?<br>\`\`\`<br>for i in range(0, 10):<br>&nbsp;&nbsp;print('Hello, World')<br>\`\`\`|
 
 # Insert
 
@@ -44,4 +44,4 @@ title: "Markdown Syntax"
 |------|-----------|-------|
 |\[text](address)|링크|\[Go to SSAFY](edu.ssafy.com)|
 |\!\[text](address)|이미지|\!\[SSAFY Image](https://edu.ssafy.com/asset/images/logo.png)|
-| \- \|| 테이블(표)|\|Name\|Speciality\|<br>\|\-\-\-\-\|\-\-\-\-\-\-\|<br>\|John\|Java\|<br>\|Peter\|Python\|
+| \- \|| 테이블(표)|\|Name\|Speciality\|<br>\|\-\-\-\-\-\-\|\-\-\-\-\-\-\-\-\-\-\|<br>\|John\|Java\|<br>\|Peter\|Python\|
