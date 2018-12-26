@@ -3,7 +3,6 @@
 ## 목적
 * 자기주도학습을 위한 가이드 제공
 
----
 ## 구성
 * GitPitch 슬라이드 문서
   - PITCHME.md: Git의 소개와 GitHub, GitPitch 사용 안내를 담은 markdown 문서. GitPitch로 접근하면 슬라이드쇼로 볼 수 있음
