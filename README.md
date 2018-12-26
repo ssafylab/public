@@ -5,7 +5,8 @@
 
 ## 구성
 * GitPitch 슬라이드 문서
-  - **PITCHME.md**: Git의 소개와 GitHub, GitPitch 사용 안내를 담은 markdown 문서. GitPitch로 접근하면 슬라이드쇼로 볼 수 있음(https://gitpitch.com/사용자명/Repository명/Branch명)
+  - **PITCHME.md**: Git의 소개와 GitHub, GitPitch 사용 안내를 담은 markdown 문서.
+                GitPitch로 접근하면 슬라이드쇼로 볼 수 있음(https://gitpitch.com/사용자명/Repository명/Branch명)
   - **PITCHME.yaml**: GitPitch 프레젠테이션을 위한 환경설정 파일(없으면 기본설정값을 가지므로, 꼭 생성해야 하는 것은 아님)
   - **css**: html, md 등에 사용할 수 있는 스타일을 정의한 CSS(Cascading Style Sheets) 파일 디렉토리
     - **PITCHME.css**: GitPitch 슬라이드 문서에 적용할 스타일을 정의한 파일
@@ -21,5 +22,6 @@
     - **gp-table.md**: GitPitch 문법 안내 페이지
     - **topic1.md**: 오늘의 미션 과제1 페이지
     - **topic2.md**: 오늘의 미션 과제2 페이지
-  - **\_posts**: 블로그에 포스팅할 글이 들어가는 디렉토리(YYYY-MM-DD-title.md 형식을 지켜야 하며, Jekyll 테마에서 자동으로 읽어 표시해 줌)
+  - **\_posts**: 블로그에 포스팅할 글이 들어가는 디렉토리
+             (YYYY-MM-DD-title.md 형식을 지켜야 하며, Jekyll 테마에서 자동으로 읽어 표시해 줌)
   
